@@ -14,3 +14,4 @@
 ## Overige
 
 - [Pesto (★★★★★)](./overige/pesto.md)
+- [Zoete aardappelrösti](./overige/zoete-aardappelrosti.md)
