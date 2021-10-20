@@ -30,12 +30,15 @@
  2. hak de rozemarijn fijn
  3. meng de rozemarijn met bloem, peper, knoflookpoeder, nootmuskaat en zout en paneer hier het vlees in
  4. bak het vlees in twee lepels boter en laat het zo donker mogelijk worden
- 5. bak intussen de groenten goudbruin en de rest van de boter
+ 5. bak intussen de groenten goudbruin in de rest van de boter
  6. voeg de groenten bij het vlees en voeg daarna alles behalve de lente-ui toe
  7. laat 2 uur sudderen
  8. laat de fijngesneden lente-ui nog 10 minuten meesudderen
  9. verwijder het kaneelstokje, de laurierblaadjes en de tijmtakjes
- 10. serveer met brood
+
+## Serveertips
+
+Serveer met stevig brood.
 
 ## Variatietips
 
