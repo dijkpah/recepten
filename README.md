@@ -25,6 +25,7 @@ Allergenen:
 ## Stoof
 
 - [Ierse stoof (★★★★★)](./stoof/ierse-stoof.md) (🥩 | 🍷)
+- [Winterstoof (★★★★☆)](./stoof/winterstoof.md) (🥬 | 🍷)
 
 ## Overige
 
