@@ -22,6 +22,10 @@ Allergenen:
 - [Gemberbier (★★★★★)](./dranken/gemberbier.md) (🥬 | 🍷)
 - [Kombucha (★★★☆☆)](./dranken/kombucha.md) (🥬 | 🍷)
 
+## Soep
+
+- [Pompoensoep](./soep/pompoen.md) (🥬)
+
 ## Stoof
 
 - [Gumbo (★★★★☆)](./stoof/gumbo.md) (🥬)
