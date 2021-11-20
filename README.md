@@ -34,6 +34,7 @@ Rating:
 
 ## Stoof
 
+- [Goulash (★★☆)](./stoof/goulash.md) (🥩)
 - [Gumbo (★★☆)](./stoof/gumbo.md) (🥬)
 - [Ierse stoof (★★★)](./stoof/ierse-stoof.md) (🥩 | 🍷)
 - [Winterstoof (★★☆)](./stoof/winterstoof.md) (🥬 | 🍷)
