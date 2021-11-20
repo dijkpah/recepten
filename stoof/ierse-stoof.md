@@ -3,25 +3,25 @@
 ## Ingrediënten
 
 - 3 lente-uien
-- 1 tot 1.5L Irish stout
+- 1,0-1,5 L Irish stout
 - 6 penen
 - 500 g krieltjes
 - 500 g uien
 - 500-700 g lamsstoofvlees (zonder bot)
 - bloem
 - 4 tenen knoflook
-- 2 eetlepels worcester sauce
-- 2 eetlepels bruine basterdsuiker
+- 2 eetl. worcester sauce
+- 2 eetl. bruine basterdsuiker
 - 2 bouillonblokjes (rund of champignon)
 - 2 laurierblaadjes
 - 2 takjes tijm
 - 2 takjes rozemarijn
-- 1 eetlepel gerookt paprikapoeder
+- 1 eetl. gerookt paprikapoeder
 - 1 kaneelstokje (Ceylon)
 - handvol kruidnagels
 - handvol jeneverbessen
 - blikje tomatenpuree
-- 3 eetlepels boter
+- 3 eetl. boter
 - zout, peper, nootmuskaat en knoflookpoeder naar smaak
 
 ## Bereiding

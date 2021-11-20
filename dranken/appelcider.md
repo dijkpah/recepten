@@ -1,15 +1,15 @@
 # Appelcider
 
-## Ingrediënten voor 1,5L
+## Ingrediënten voor 1,5 L
 
-- 3kg appels
+- 3 kg appels
 - biergist uit IPA (laatste slok uit de fles)
-- 150g bruine suiker
+- 150 g bruine suiker
 
 ## Bereiding cider
 
  1. pers appels
- 2. verwarm tot > 71 graden en < 85 graden
+ 2. verwarm tot > 71 °C en < 85 °C
  3. laat afkoelen tot kamertemperatuur
  4. zeef zodat alleen het sap overblijft
 
@@ -22,6 +22,6 @@
 
  1. voeg giststarter bij cider
  2. voeg de suiker, opgelost in water toe
- 3. zet cider op fles met waterslot en zorg dat er zo min mogelijk lucht bij zit (anders verzuurt de cider). In het donker bij 15-20 graden.
+ 3. zet cider op fles met waterslot en zorg dat er zo min mogelijk lucht bij zit (anders verzuurt de cider). In het donker bij 15-20 °C.
  4. wacht tot de cider stopt met borrelen en laat nog een week rusten zodat gist bezinkt
  5. zet nog tenminste twee weken op fles

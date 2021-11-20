@@ -6,16 +6,16 @@ Dit recept is een vegetarische variant van [Jagersstoofschotel](https://web.arch
 
 ## Ingrediënten
 
-- 500g rode uien
+- 500 g rode uien
 - 750 ml rode wijn
-- 500g wortels
+- 500 g wortels
 - 3 pastinaken
 - 2 tenen knoflook
 - 1 blokje groentebouillon
 - 2 laurierblaadjes
 - 2 takjes tijm
 - 2 takjes rozemarijn
-- 1 eetlepel gerookt paprikapoeder
+- 1 eetl. gerookt paprikapoeder
 - 1 kaneelstokje (Ceylon)
 - ½ savooiekool
 - handvol kruidnagels

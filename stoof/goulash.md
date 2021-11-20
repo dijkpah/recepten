@@ -15,10 +15,10 @@
 - 350 ml runderfond
 - 500 ml water
 - 4 laurierblaadjes
-- 1 eetlepel paprikapoeder
-- 2 theelepels gerookt paprikapoeder
-- 1 eetlepel karwijzaad
-- 4 eetlepels roomboter
+- 1 eetl. paprikapoeder
+- 2 theel. gerookt paprikapoeder
+- 1 eetl. karwijzaad
+- 4 eetl. roomboter
 - bloem
 - zout en peper naar smaak
 

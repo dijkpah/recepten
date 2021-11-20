@@ -1,12 +1,12 @@
 # Gemberbier
 
-## Giststarter (500ml)
+## Giststarter (500 ml)
 
 ### Ingrediënten
 
-- 500ml water
-- 25g suiker
-- 25g gember
+- 500 ml water
+- 25 g suiker
+- 25 g gember
 - zakje gist
 
 ### Bereiding
@@ -14,18 +14,18 @@
  1. meng ingredienten
  2. giet in (open) pot, dek af met kaasdoek
  3. zet pot op kamertemperatuur in het donker
- 4. voeg dagelijks 25g suiker en 25g gember toe en roer door
+ 4. voeg dagelijks 25 g suiker en 25 g gember toe en roer door
 
 ---------------------------------------------------------------------
 
-## Gemberbier (2.8L)
+## Gemberbier (2.8 L)
 
 ### Ingrediënten
 
-- 2.3L water
-- 325g suiker
-- 75g gember
-- 500ml giststarter
+- 2.3 L water
+- 325 g suiker
+- 75 g gember
+- 500 ml giststarter
 - sap van 3 citroenen
 
 ### Bereiding

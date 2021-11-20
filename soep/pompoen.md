@@ -6,10 +6,10 @@
   - 3 uien
   - 1 biologische hokkaido pompoen
   - 2 rode puntpaprika's
-  - 250g wortel
+  - 250 g wortel
 - voor de marinade:
   - 3 tenen knoflook
-  - 2 theelepels kerrie
+  - 2 theel. kerrie
   - verse rozemarijn
   - verse salie
   - olijfolie
@@ -17,12 +17,12 @@
   - 2 bouillonblokjes
   - 1 liter water
   - 2 laurierblaadjes
-  - 2 theelepels komijn
+  - 2 theel. komijn
 - zout en peper naar smaak
 
 ## Bereiding
 
- 1. verwarm de over voor op 180 graden
+ 1. verwarm de over voor op 180 °C
  2. halveer de pompoen en verwijder het vruchtvlees en de steel
  3. snij de pompoen, paprika, ui en wortel in blokjes
  4. hak de rozemarijn en salie fijn

@@ -8,8 +8,8 @@ Voor 4 personen
   - 2 groene paprika's
   - 3 stengels bleekselderij
   - 4 teentjes knoflook
-  - 300g okra's
-  - 250g kastanjechampignons
+  - 300 g okra's
+  - 250 g kastanjechampignons
   - 4 tomates
   - 240g kidneybonen uit blik
 - voor de roux:
@@ -23,7 +23,7 @@ Voor 4 personen
   - ½ theel. cayennepeper
   - 1 theel. gedroogde oregano
   - 1 theel. tabasco
-  - 750ml groentebouillon
+  - 750 ml groentebouillon
   - 2 laurierblaadjes
 - voor het serveren:
   - zwarte peper, szechuanpeper en zout naar smaak

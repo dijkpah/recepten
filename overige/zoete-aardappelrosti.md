@@ -10,7 +10,7 @@
 
 ## Bereiding
 
- 1. verwarm de over voor op 180°C
+ 1. verwarm de over voor op 180 °C
  1. schil de zoete aardappels en rasp ze tot reepjes
  1. snipper de ui, pers de knoflook en hak de rozemarijn fijn
  1. meng alles samen met de eieren
