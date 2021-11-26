@@ -3,7 +3,7 @@
 ## Ingrediënten
 
 - 1 kg uien
-- 600-1000 g runderstoofvless (zonder bot)
+- 600-1000 g runderstoofvlees (zonder bot)
 - 1 kg krieltjes
 - 1 groene paprika
 - 1 oranje/gele (punt)paprika
