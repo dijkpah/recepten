@@ -28,6 +28,10 @@ Rating:
 - [Gemberbier (★★★)](./dranken/gemberbier.md) (🥬 | 🍷)
 - [Kombucha (★☆☆)](./dranken/kombucha.md) (🥬 | 🍷)
 
+## Pasta
+
+- [Lasagne (★★★)](./pasta/lasagne.md) (🥬/🥩 | 🧀)
+
 ## Soep
 
 - [Pompoensoep (★★☆)](./soep/pompoen.md) (🥬)
@@ -41,5 +45,5 @@ Rating:
 
 ## Overige
 
-- [Pesto (★★★)](./overige/pesto.md) (🥬 |  🧀🥜)
+- [Pesto (★★★)](./overige/pesto.md) (🥬 | 🧀🥜)
 - [Zoete aardappelrösti (★★☆)](./overige/zoete-aardappelrosti.md) (🥬/🥩 | 🥚)
