@@ -44,6 +44,10 @@ Rating:
 - [Ierse stoof (★★★)](./stoof/ierse-stoof.md) (🥩 | 🍷)
 - [Winterstoof (★★☆)](./stoof/winterstoof.md) (🥬 | 🍷)
 
+## Snacks
+
+- [Zoete aardappelschijfjes (★★☆)](./snacks/zoete-aardappelschijfjes.md) (🥬)
+
 ## Overige
 
 - [Pesto (★★★)](./overige/pesto.md) (🥬 | 🧀🥜)
