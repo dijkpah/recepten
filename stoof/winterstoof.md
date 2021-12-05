@@ -8,6 +8,7 @@ Dit recept is een vegetarische variant van [Jagersstoofschotel](https://web.arch
 
 - 500 g rode uien
 - 750 ml rode wijn
+- 500 g jackfruit
 - 500 g wortels
 - 3 pastinaken
 - 2 tenen knoflook
