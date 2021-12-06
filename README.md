@@ -50,5 +50,6 @@ Rating:
 
 ## Overige
 
+- [Pastélon (★☆☆)](./overige/pastelon.md) (🥩 | 🥚🧀)
 - [Pesto (★★★)](./overige/pesto.md) (🥬 | 🧀🥜)
 - [Zoete aardappelrösti (★★☆)](./overige/zoete-aardappelrosti.md) (🥬/🥩 | 🥚)
