@@ -34,7 +34,7 @@ Rating:
 
 ## Soep
 
-- [Misosoep (★☆☆)](./soep/miso.md) (🥬)
+- [Misosoep (★★☆)](./soep/miso.md) (🥬)
 - [Pompoensoep (★★☆)](./soep/pompoen.md) (🥬)
 
 ## Stoof
