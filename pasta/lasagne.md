@@ -1,5 +1,7 @@
 # Lasagne
 
+Voor 6 personen
+
 ## Ingrediënten
 
 - voor de bechamel

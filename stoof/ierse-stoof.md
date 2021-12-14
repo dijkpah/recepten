@@ -1,5 +1,7 @@
 # Ierse stoof
 
+Voor 4 personen
+
 ## Ingrediënten
 
 - 3 lente-uien

@@ -1,5 +1,7 @@
 # Pompoensoep
 
+Voor 4 personen
+
 ## Ingrediënten
 
 - voor de basis:

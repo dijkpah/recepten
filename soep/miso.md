@@ -1,5 +1,7 @@
 # Misosoep
 
+Voor 4 personen
+
 ## Ingrediënten
 
 - 1 L water

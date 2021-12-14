@@ -1,5 +1,7 @@
 # Goulash
 
+Voor 8 personen
+
 ## Ingrediënten
 
 - 1 kg uien

@@ -4,6 +4,8 @@
 
 Dit recept is een vegetarische variant van [Jagersstoofschotel](https://web.archive.org/web/20201029104708/https://recepten.lidl.nl/recept/jagersstoofschotel-van-herten-poulet-met-kleurrijke-wintergroenten).
 
+Voor 4 personen
+
 ## Ingrediënten
 
 - 500 g rode uien

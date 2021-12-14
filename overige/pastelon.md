@@ -1,5 +1,7 @@
 # Pastelón
 
+Voor 6 personen
+
 ## Ingrediënten
 
 - voor de laagjes

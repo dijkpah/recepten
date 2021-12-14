@@ -1,5 +1,7 @@
 # Zoete aardappelrösti
 
+Voor 2 personen
+
 ## Ingrediënten
 
 - 1 takje rozemarijn
