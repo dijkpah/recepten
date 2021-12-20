@@ -53,6 +53,6 @@ Rating:
 
 - [Rabarber crumble (★★★)](./overige/crumble.md) (🥬)
 - [Lemon curd (★★★)](./overige/curd.md) (🥬 | 🥚)
-- [Pastélon (★☆☆)](./overige/pastelon.md) (🥩 | 🥚🧀)
+- [Pastelón (★☆☆)](./overige/pastelon.md) (🥩 | 🥚🧀)
 - [Pesto (★★★)](./overige/pesto.md) (🥬 | 🧀🥜)
 - [Zoete aardappelrösti (★★☆)](./overige/zoete-aardappelrosti.md) (🥬/🥩 | 🥚)
