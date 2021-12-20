@@ -46,6 +46,7 @@ Rating:
 
 ## Snacks
 
+- [Pecannoten in siroop (★★☆)](./snacks/pecan.md) (🥬 | 🥜)
 - [Zoete aardappelschijfjes (★★☆)](./snacks/zoete-aardappelschijfjes.md) (🥬)
 
 ## Overige
