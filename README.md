@@ -51,6 +51,7 @@ Rating:
 
 ## Overige
 
+- [Rabarber crumble (★★★)](./overige/crumble.md) (🥬)
 - [Lemon curd (★★★)](./overige/curd.md) (🥬 | 🥚)
 - [Pastélon (★☆☆)](./overige/pastelon.md) (🥩 | 🥚🧀)
 - [Pesto (★★★)](./overige/pesto.md) (🥬 | 🧀🥜)
