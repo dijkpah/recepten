@@ -22,7 +22,7 @@ Voor 8 personen
 - 1 eetl. karwijzaad
 - 4 eetl. roomboter
 - bloem
-- zout en peper naar smaak
+- zout, zwarte peper en szechuanpeper naar smaak
 
 ## Bereiding
 
@@ -31,8 +31,9 @@ Voor 8 personen
  3. bak het vlees in twee lepels boter en laat het zo donker mogelijk worden
  4. bak intussen de groenten goudbruin in de rest van de boter
  5. halveer de paprika's over de lengte, gril deze en snijd ze in grote stukken
- 6. Pers de knoflook
+ 6. pers de knoflook
  7. giet de gegrilde paprika's op pot af en snijd in grote stukken
  8. voeg de groenten bij het vlees en voeg daarna de rest van de ingrediënten toe
  9. laat 2 uur sudderen; roer af en toe door
  10. verwijder de laurierblaadjes
+ 11. voeg zwarte peper, szechuanpeper en zout toe naar smaak
