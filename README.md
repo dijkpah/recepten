@@ -55,4 +55,5 @@ Rating:
 - [Lemon curd (★★★)](./overige/curd.md) (🥬 | 🥚)
 - [Pastelón (★☆☆)](./overige/pastelon.md) (🥩 | 🥚🧀)
 - [Pesto (★★★)](./overige/pesto.md) (🥬 | 🧀🥜)
+- [Shepherd's pie(★☆☆)](./overige/shepherds-pie.md) (🥩 | 🧀)
 - [Zoete aardappelrösti (★★☆)](./overige/zoete-aardappelrosti.md) (🥬/🥩 | 🥚)
