@@ -28,10 +28,6 @@ Rating:
 - [Gemberbier (★★★)](./dranken/gemberbier.md) (🥬 | 🍷)
 - [Kombucha (★☆☆)](./dranken/kombucha.md) (🥬 | 🍷)
 
-## Pasta
-
-- [Lasagne (★★★)](./pasta/lasagne.md) (🥬/🥩 | 🧀)
-
 ## Soep
 
 - [Misosoep (★★☆)](./soep/miso.md) (🥬)
@@ -44,6 +40,17 @@ Rating:
 - [Ierse stoof (★★★)](./stoof/ierse-stoof.md) (🥩 | 🍷)
 - [Winterstoof (★★☆)](./stoof/winterstoof.md) (🥬 | 🍷)
 
+## Ovenschotels
+
+- [Lasagne (★★★)](./ovenschotels/lasagne.md) (🥬/🥩 | 🧀)
+- [Pastelón (★☆☆)](./ovenschotels/pastelon.md) (🥩 | 🥚🧀)
+- [Shepherd's pie(★☆☆)](./ovenschotels/shepherds-pie.md) (🥩 | 🧀)
+- [Zoete aardappelrösti (★★☆)](./ovenschotels/zoete-aardappelrosti.md) (🥬/🥩 | 🥚)
+
+## Toetjes
+
+- [Rabarber crumble (★★★)](./toetjes/crumble.md) (🥬)
+
 ## Snacks
 
 - [Pecannoten in siroop (★★☆)](./snacks/pecan.md) (🥬 | 🥜)
@@ -52,9 +59,5 @@ Rating:
 ## Overige
 
 - [Guacamole (★★★)](./overige/guacamole.md)(🥬)
-- [Rabarber crumble (★★★)](./overige/crumble.md) (🥬)
 - [Lemon curd (★★★)](./overige/curd.md) (🥬 | 🥚)
-- [Pastelón (★☆☆)](./overige/pastelon.md) (🥩 | 🥚🧀)
 - [Pesto (★★★)](./overige/pesto.md) (🥬 | 🧀🥜)
-- [Shepherd's pie(★☆☆)](./overige/shepherds-pie.md) (🥩 | 🧀)
-- [Zoete aardappelrösti (★★☆)](./overige/zoete-aardappelrosti.md) (🥬/🥩 | 🥚)
