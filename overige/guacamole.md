@@ -17,6 +17,7 @@ Dit is het guacamolerecept van Agustin
  3. meng de ui, avocado en tomaat
  4. pers de limoen uit over het mengsel
  5. voeg peper en zout toe naar smaak
+ 6. doe de pit van de avocado in de guacamole als je deze wilt bewaren; dit voorkomt oxidatie
 
 ## Variatietips
 
