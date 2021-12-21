@@ -1,19 +1,21 @@
 # Shepherd's pie
 
+Voor 4 personen
+
 ## Ingrediënten
 
 - voor de topping:
-  - 1 kg aardappels
+  - 1 kg kruimige aardappels
   - 100 g ongezouten boter
-  - 80 ml melk
   - ½ theel. knoflookpoeder
   - ½ theel. zout
   - ¼ theel. zwarte peper
   - 25 g parmezaanse kaas
+  - 2 eierdooiers
 - voor de vulling:
   - 2 eetl. olijfolie
-  - 450 g gehakt
-  - 1 ui
+  - 450 g rundergehakt
+  - 2 uien
   - 2 theel. peterselie
   - 1 theel. rozemarijn
   - 1 theel. tijm
@@ -24,7 +26,7 @@
   - 2 eetl. bloem
   - 2 eetl. tomatenpuree
   - 200-250 ml runderbouillon
-  - 150 g erwten-wortelmix
+  - 250 g erwten-wortelmix
   - 150 g maïskorrels
 
 ## Bereiding
@@ -44,11 +46,17 @@
 3. Bereid de topping:
    - doe de aardappel in een pan, zet deze onder water, breng het water aan de kook en laat dan 10-15 minuten sudderen
    - giet de aardappels af en laat ze nastomen voor een minuut
-   - voeg de boter, melk, knoflookpoeder, zout en peper toe
+   - voeg de boter, eierdooiers, knoflookpoeder, zout en peper toe
    - stamp de aardappelen en roer totdat de ingrediënt goed gemengd zijn
    - roer de parmezaanse kaas door de aardappelen
 4. Bereid de shepherd's pie
    - vet een ovenschaal in
    - doe de vulling in de ovenschaal en spreid tot een gelijkmatige laag
    - schep de aardappels op de vulling en spreid tot een gelijkmatige laag
-   - bak af in 25-30 minuten
+   - bak af in 25 minuten
+
+## Variatietips
+
+ - vervang het rundergehakt door lamsgehakt
+ - vervang de runderbouillon door kippenbouillon
+ - top af met een laag parmezaanse kaas
