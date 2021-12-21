@@ -51,6 +51,7 @@ Rating:
 
 ## Overige
 
+- [Guacamole (★★★)](./overige/guacamole.md)(🥬)
 - [Rabarber crumble (★★★)](./overige/crumble.md) (🥬)
 - [Lemon curd (★★★)](./overige/curd.md) (🥬 | 🥚)
 - [Pastelón (★☆☆)](./overige/pastelon.md) (🥩 | 🥚🧀)
