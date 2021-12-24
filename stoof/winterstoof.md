@@ -36,8 +36,9 @@ Voor 4 personen
  6. snij de jackfruit in grote stukken en voeg deze toe
  7. pers de knoflook en voeg deze toe
  8. voeg de kruiden en specerijen toe
- 9. laat 2 uur sudderen
- 10. verwijder het kaneelstokje, de laurierblaadjes en de tijmtakjes
+ 9. voeg water toe tot de bovenste laag ingrediënten net het water raken
+ 10. laat 2 uur sudderen zonder deksel, zodat de stoof kan indikken
+ 11. verwijder het kaneelstokje, de laurierblaadjes en de tijmtakjes
 
 ## Serveertips
 
