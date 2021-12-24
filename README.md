@@ -44,7 +44,7 @@ Rating:
 
 - [Lasagne (★★★)](./ovenschotels/lasagne.md) (🥬/🥩 | 🧀)
 - [Pastelón (★☆☆)](./ovenschotels/pastelon.md) (🥩 | 🥚🧀)
-- [Shepherd's pie(★★☆)](./ovenschotels/shepherds-pie.md) (🥩 | 🧀)
+- [Shepherd's pie (★★☆)](./ovenschotels/shepherds-pie.md) (🥩 | 🧀)
 - [Zoete aardappelrösti (★★☆)](./ovenschotels/zoete-aardappelrosti.md) (🥬/🥩 | 🥚)
 
 ## Toetjes
@@ -58,6 +58,6 @@ Rating:
 
 ## Overige
 
-- [Guacamole (★★★)](./overige/guacamole.md)(🥬)
+- [Guacamole (★★★)](./overige/guacamole.md) (🥬)
 - [Lemon curd (★★★)](./overige/curd.md) (🥬 | 🥚)
 - [Pesto (★★★)](./overige/pesto.md) (🥬 | 🧀🥜)
