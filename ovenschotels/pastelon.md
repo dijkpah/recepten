@@ -21,7 +21,7 @@ Voor 6 personen
   - 1 theel. zoete paprikapoeder
   - 1 theel. oregano
   - 350 g tomaten
-  - 150 ml witte wijn
+  - 150 ml witte wijn of water
   - 3 eetl. tomatenpuree
   - 2 eetl. rozijnen
   - zout en peper naar smaak
