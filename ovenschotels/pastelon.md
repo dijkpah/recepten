@@ -53,7 +53,7 @@ Voor 6 personen
    - voeg het gehakt toe en roer daardoor zout, peper, komijn, paprika en oregano
    - bak onder regelmatig roeren totdat het gehakt gelijkmatig is gebruind (ongeveer 8 minuten)
    - zet het vuur uit en verwijder zoveel mogelijk vet van de bodem van de pan
-   - zet het vuur weer middelhoog, voeg de tomaten en tomatenpuree toe en kook al roerend totdat de tomaten uiteen vallen (ongeveer 10 minuten)
+   - zet het vuur weer middelhoog, voeg de tomaten, de wijn en tomatenpuree toe en kook al roerend totdat de tomaten uiteen vallen (ongeveer 10 minuten)
    - zet het vuur uit en roer de rozijnen door de mix en voeg peper en zout naar smaak toe
 4. Bereid de pastelón:
    - verwarm de over voor op 180 °C
