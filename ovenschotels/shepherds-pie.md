@@ -26,13 +26,15 @@ Voor 4 personen
   - 2 eetl. bloem
   - 2 eetl. tomatenpuree
   - 200-250 ml runderbouillon
-  - 250 g erwten-wortelmix
+  - 250 g wortel
+  - 200 g doperwten
   - 150 g maïskorrels
 
 ## Bereiding
 1. Voorbereiding:
    - pel en snipper de ui
    - pel en pers de knoflook
+   - rasp de wortels
    - schil de aardappelen en snijd deze in blokjes
    - verwarm de over voor op 200 °C
 2. Bereid de vulling:
