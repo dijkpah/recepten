@@ -54,6 +54,7 @@ Rating:
 ## Snacks
 
 - [Pecannoten in siroop (★★☆)](./snacks/pecan.md) (🥬 | 🥜)
+- [Notenmix met kruiden (★★☆)](./snacks/notenmix.md) (🥬 | 🥜)
 - [Zoete aardappelschijfjes (★★☆)](./snacks/zoete-aardappelschijfjes.md) (🥬)
 
 ## Overige
