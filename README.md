@@ -59,6 +59,7 @@ Rating:
 
 ## Overige
 
+- [Champignonroomsaus (★☆☆)](./overige/champignonroomsaus.md) (🥩 | 🧀)
 - [Guacamole (★★★)](./overige/guacamole.md) (🥬)
 - [Lemon curd (★★★)](./overige/curd.md) (🥬 | 🥚)
 - [Pesto (★★★)](./overige/pesto.md) (🥬 | 🧀🥜)
