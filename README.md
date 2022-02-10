@@ -57,9 +57,9 @@ Rating:
 - [Notenmix met kruiden (★★☆)](./snacks/notenmix.md) (🥬 | 🥜)
 - [Zoete aardappelschijfjes (★★☆)](./snacks/zoete-aardappelschijfjes.md) (🥬)
 
-## Overige
+## Sauzen & Condimenten
 
-- [Champignonroomsaus (★☆☆)](./overige/champignonroomsaus.md) (🥩 | 🧀)
-- [Guacamole (★★★)](./overige/guacamole.md) (🥬)
-- [Lemon curd (★★★)](./overige/curd.md) (🥬 | 🥚)
-- [Pesto (★★★)](./overige/pesto.md) (🥬 | 🧀🥜)
+- [Champignonroomsaus (★☆☆)](./sauzen/champignonroomsaus.md) (🥩 | 🧀)
+- [Guacamole (★★★)](./sauzen/guacamole.md) (🥬)
+- [Lemon curd (★★★)](./sauzen/curd.md) (🥬 | 🥚)
+- [Pesto (★★★)](./sauzen/pesto.md) (🥬 | 🧀🥜)
