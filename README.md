@@ -63,3 +63,5 @@ Rating:
 - [Guacamole (★★★)](./sauzen/guacamole.md) (🥬)
 - [Lemon curd (★★★)](./sauzen/curd.md) (🥬 | 🥚)
 - [Pesto (★★★)](./sauzen/pesto.md) (🥬 | 🧀🥜)
+
+Voor andere lekkere recepten, kijk eens naar [MClaass's receptenboek](https://github.com/MClaass/recepten).
