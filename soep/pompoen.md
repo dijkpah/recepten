@@ -39,7 +39,7 @@ Voor 4 personen
 
 ## Serveertips
 
-Serveer met croutons en versie peterselie voor garnering.
+Serveer met croutons en verse peterselie voor garnering.
 
 ## Variatietips
 
