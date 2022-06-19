@@ -32,6 +32,7 @@ Rating:
 
 - [Misosoep (★★☆)](./soep/miso.md) (🥬)
 - [Pompoensoep (★★☆)](./soep/pompoen.md) (🥬)
+- [Watermeloen gazpacho (★★☆)](./soep/watermeloen-gazpacho.md) (🥬)
 
 ## Stoof
 
@@ -53,6 +54,7 @@ Rating:
 
 ## Snacks
 
+- [Croutons (★★☆)](./snacks/croutons.md) (🥬 | 🧀)
 - [Pecannoten in siroop (★★☆)](./snacks/pecan.md) (🥬 | 🥜)
 - [Notenmix met kruiden (★★☆)](./snacks/notenmix.md) (🥬 | 🥜)
 - [Zoete aardappelschijfjes (★★☆)](./snacks/zoete-aardappelschijfjes.md) (🥬)

@@ -33,15 +33,15 @@ Voor 4 personen
  7. doe de groente in een ovenschaal en meng grondig met de marinade
  8. bak de groenten voor 25-30 minuten af in de over en schep halverwege om
  9. doe de groenten in soeppan met het water, de bouillonblokjes, de komijn en de laurierblaadjes.
- 10. breng alles aan de kook en laat 10 minuten doorkoken 
+ 10. breng alles aan de kook en laat 10 minuten doorkoken
  11. verwijder de laurierblaadjes en pureer de soep
  12. breng op smaak met peper en zout
 
 ## Serveertips
 
-Serveer met croutons en verse peterselie voor garnering.
+Serveer met [croutons](../snacks/croutons.md) en verse peterselie voor garnering.
 
 ## Variatietips
 
-- rooster de paprika's op de gril in plaats van ze af te bakken in de ovem 
+- rooster de paprika's op de gril in plaats van ze af te bakken in de oven
 - voeg 1 dL room toe voor een romige pompoensoep
