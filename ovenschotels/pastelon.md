@@ -41,7 +41,7 @@ Voor 4 personen
    - snijd elke bakbanaan over de lengte doormidden en snijd vervolgens de resulterende stukken nogmaal over de lengte doormidden zodat je 24 plakken krijgt  
    - leg de plakken op de bakplaat
    - strijk met een kwast raapzaadolie over de plakken  
-   - bak de plakken af in de oven
+   - bak de plakken af in de oven in 20-25 minuten
 2. Bereid de sofrito:  
    - pel de ui en knoflook, verwijder de kern uit de paprika
    - doe de ui, paprika, knoflook en koriander in een blender  
