@@ -27,6 +27,7 @@ Rating:
 
 ## Soep
 
+- [Gazpacho (★☆☆)](./soep/gazpacho.md) (🥬)
 - [Misosoep (★★☆)](./soep/miso.md) (🥬)
 - [Pompoensoep (★★☆)](./soep/pompoen.md) (🥬)
 - [Watermeloen gazpacho (★★☆)](./soep/watermeloen-gazpacho.md) (🥬)
