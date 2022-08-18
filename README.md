@@ -45,6 +45,7 @@ Rating:
 - [Pastelón (★☆☆)](./ovenschotels/pastelon.md) (🥩 | 🥚🧀)
 - [Shepherd's pie (★★☆)](./ovenschotels/shepherds-pie.md) (🥩 | 🧀)
 - [Zoete aardappelrösti (★★☆)](./ovenschotels/zoete-aardappelrosti.md) (🥬/🥩 | 🥚)
+- [Zuurkoolschotel met zoete aardappel (★★☆)](./ovenschotels/zuurkool.md) (🥬 | 🧀)
 
 ## Toetjes
 
