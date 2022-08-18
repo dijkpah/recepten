@@ -39,6 +39,10 @@ Rating:
 - [Ierse stoof (★★★)](./stoof/ierse-stoof.md) (🥩 | 🍷)
 - [Winterstoof (★★☆)](./stoof/winterstoof.md) (🥬 | 🍷)
 
+## Pasta
+
+- [Pasta alla checca (★★☆)](./pasta/checca.md) (🥬 | 🧀)
+
 ## Ovenschotels
 
 - [Lasagne (★★★)](./ovenschotels/lasagne.md) (🥬/🥩 | 🧀)
