@@ -41,6 +41,7 @@ Rating:
 
 ## Pasta
 
+- [Pasta al limone (★★☆)](./pasta/limone.md) (🥬 | 🥚)
 - [Pasta alla checca (★★☆)](./pasta/checca.md) (🥬 | 🧀)
 
 ## Ovenschotels
