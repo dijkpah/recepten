@@ -66,6 +66,7 @@ Rating:
 ## Sauzen & Condimenten
 
 - [Champignonroomsaus (★☆☆)](./sauzen/champignonroomsaus.md) (🥩 | 🧀)
+- [Gepekelde rode ui (★★☆)](./sauzen/gepekelde-ui.md) (🥬)
 - [Guacamole (★★★)](./sauzen/guacamole.md) (🥬)
 - [Lemon curd (★★★)](./sauzen/curd.md) (🥬 | 🥚)
 - [Pesto (★★★)](./sauzen/pesto.md) (🥬 | 🧀🥜)
