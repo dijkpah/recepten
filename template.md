@@ -4,8 +4,10 @@ Voor [n] personen
 
 ## Ingrediënten
 
-- [eerste ingrediënt]
-- [tweede ingrediënt]
+- 100 g [eerste ingrediënt]
+- 2 eetl. [tweede ingrediënt]
+- 1 theel. [derde ingrediënt]
+- 1,5 L [vierde ingrediënt]
 - etc.
 
 ## Bereiding
