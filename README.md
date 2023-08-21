@@ -36,6 +36,7 @@ Rating:
 
 - [Goulash (★★★)](./stoof/goulash.md) (🥩)
 - [Gumbo (★★☆)](./stoof/gumbo.md) (🥬)
+- [Huevos rancheros (★★☆)](./stoof/huevos-rancheros.md) (🥬 | 🥚🧀)
 - [Ierse stoof (★★★)](./stoof/ierse-stoof.md) (🥩 | 🍷)
 - [Winterstoof (★★☆)](./stoof/winterstoof.md) (🥬 | 🍷)
 
