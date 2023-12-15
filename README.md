@@ -30,6 +30,7 @@ Rating:
 - [Gazpacho (★☆☆)](./soep/gazpacho.md) (🥬)
 - [Misosoep (★★☆)](./soep/miso.md) (🥬)
 - [Pompoensoep (★★☆)](./soep/pompoen.md) (🥬)
+- [Pompoensinaasappelsoep (★★☆)](./soep/pompoen-sinaasappel.md) (🥬)
 - [Watermeloen gazpacho (★★☆)](./soep/watermeloen-gazpacho.md) (🥬)
 
 ## Stoof
