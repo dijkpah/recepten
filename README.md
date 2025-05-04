@@ -56,6 +56,7 @@ Rating:
 
 ## Toetjes
 
+- [Appel crumble (★★☆)](./toetjes/appelcrumble.md) (🥬)
 - [Rabarber crumble (★★★)](./toetjes/crumble.md) (🥬)
 
 ## Snacks
