@@ -68,9 +68,10 @@ Rating:
 
 ## Sauzen & Condimenten
 
-- [Bramenjam (★★★)](./sauzen/bramenjam.md)
+- [Bramenjam (★★★)](./sauzen/bramenjam.md) (🥬)
 - [Champignonroomsaus (★☆☆)](./sauzen/champignonroomsaus.md) (🥩 | 🧀)
 - [Gepekelde rode ui (★★☆)](./sauzen/gepekelde-ui.md) (🥬)
+- [Groene tomaten chutney (★☆☆)](./sauzen/tomatenchutney.md) (🥬)
 - [Guacamole (★★★)](./sauzen/guacamole.md) (🥬)
 - [Lemon curd (★★★)](./sauzen/curd.md) (🥬 | 🥚)
 - [Pesto (★★★)](./sauzen/pesto.md) (🥬 | 🧀🥜)
