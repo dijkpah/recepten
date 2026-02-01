@@ -23,6 +23,7 @@ Rating:
 
 ## Dranken
 
+- [Chai (★☆☆)](./dranken/chai.md) (🥬 | 🧀)
 - [Gemberbier (★★★)](./dranken/gemberbier.md) (🥬 | 🍷)
 
 ## Soep
