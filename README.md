@@ -49,6 +49,7 @@ Rating:
 
 ## Ovenschotels
 
+- [2-sauzen lasagne (★☆☆)](./ovenschotels/lasagne-2-sauzen.md) (🥬/🥩 | 🧀)
 - [Lasagne (★★★)](./ovenschotels/lasagne.md) (🥬/🥩 | 🧀)
 - [Pastelón (★☆☆)](./ovenschotels/pastelon.md) (🥩 | 🥚🧀)
 - [Shepherd's pie (★★☆)](./ovenschotels/shepherds-pie.md) (🥩 | 🧀)
