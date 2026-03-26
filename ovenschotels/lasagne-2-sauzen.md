@@ -2,7 +2,7 @@
 
 Voor 4 personen
 
-## Ingrediënten 
+## Ingrediënten
 
 - 2 tenen knoflook
 - 1 pak lasagnebladen
@@ -31,7 +31,7 @@ Voor 4 personen
 1. Fruit in een andere pan de andere helft van de knoflook en voeg de pesto, tomatenblokjes en het water toe.
 2. Laat het mengsel ongeveer 10 minuten pruttelen.
 
-## Bereiding lasagne 
+## Bereiding lasagne
 
 1. Bouw de lasagne op: begin met een laag spinaziemengsel, leg daarop lasagnebladen en wissel af met de tomatensaus. Eindig met een laag tomatensaus.
 2. Verdeel de mozzarella en de rest van de geraspte kaas over de bovenkant.
