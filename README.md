@@ -49,6 +49,7 @@ Rating:
 
 ## Ovenschotels
 
+- [2-sauzen lasagne (★☆☆)](./ovenschotels/lasagne-2-sauzen.md) (🥬 | 🥜🧀)
 - [Lasagne (★★★)](./ovenschotels/lasagne.md) (🥬/🥩 | 🧀)
 - [Pastelón (★☆☆)](./ovenschotels/pastelon.md) (🥩 | 🥚🧀)
 - [Shepherd's pie (★★☆)](./ovenschotels/shepherds-pie.md) (🥩 | 🧀)
@@ -59,6 +60,7 @@ Rating:
 
 - [Appel crumble (★★☆)](./toetjes/appelcrumble.md) (🥬)
 - [Rabarber crumble (★★★)](./toetjes/crumble.md) (🥬)
+- [Witte chocolademousse (★★☆)](./toetjes/witte-chocolademousse.md) (🥬 | 🧀)
 
 ## Snacks
 
